@@ -59,6 +59,7 @@ Daffy Duck
 Darwin
 Darwin Watterson
 Deadpool
+Dab
 Dexter
 Discord
 Donald Duck
@@ -2295,5 +2296,4 @@ zipline
 zipper
 zombie
 zoo
-
 zoom
